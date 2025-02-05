@@ -157,3 +157,4 @@ add-zsh-hook chpwd update_env_paths
 
 # Ejecutar al iniciar la shell para configurar el PATH y alias inicial
 update_env_paths
+alias lzd='lazydocker'
